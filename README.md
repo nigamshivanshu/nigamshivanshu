@@ -1,5 +1,3 @@
-## <div align="center">Hey 👋, I'm Shivanshu Nigam!</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=1E77B5&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivanshu+Nigam!;Data+Analyst+%7C+Business+Analytics+%26+ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
