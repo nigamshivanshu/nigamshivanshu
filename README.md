@@ -19,9 +19,6 @@
 <a href="https://www.kaggle.com/shivanshunigam" target="_blank">
 <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://instagram.com/shiva_nshu0201" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 </div>
 
 ---
