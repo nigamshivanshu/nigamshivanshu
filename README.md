@@ -1,121 +1,140 @@
-## <div align="center">Hey 👋, I'm Shivanshu Nigam!</div>  
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=1E77B5&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivanshu+Nigam!;Data+Analyst+%7C+Business+Analytics+%26+ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
+</p>
 
+---
 
-### <div align="center">Undergraduate Student from University of Lucknow</div>  
+### <div align="center">Data Analyst | AI Enthusiast | Microsoft Certified AI Engineer</div>  
 <div align="center">
 <a href="https://github.com/nigamshivanshu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/shivanshu-nigam" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/shivanshunigam" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/shivanshunigam" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 <a href="https://instagram.com/shiva_nshu0201" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
 
+---
 
+## 🔍 About Me
 
- 
-### <div align="center">Glad to see you here! </div>  
-  
+🎓 I’m a B.Sc. Mathematics graduate from University of Lucknow  
+🔧 Working at A.K Infra & Reality Developers as a Data Analyst  
+📊 Turning raw data into strategic insights and business value  
+🌐 Passionate about AI, ML, Visualization & Problem Solving  
+📫 Email me: **shivanshunigam0201@gmail.com**
 
-<br/>  
+---
 
- 
 <table><tr><td valign="top" width="50%">
 
-  
-  
+### 🌱 Learning & Exploring
+- Computer Vision, NLP
+- Generative AI (Oracle & Google Cloud)
+- ML Ops & Deployment
 
-- 🌱 I’m currently learning computer vision and Natural language Processing  
-  
-
-- ❓ Ask me about anything related to Machine Learning algorithms and its implementation  
-  
-
-- Reach me at shivanshunigam0201@gmail.com  
-
+### 🎯 Goals
+- Collaborate on real-world ML projects
+- Master AI deployment pipelines
+- Build impactful data products
 
 </td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="center" height="300" width="400" />
-</div>  
+<img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+</div>
+</td></tr></table>
+
+---
+
+## 💼 Experience Highlights
+
+- **Data Analyst** @ A.K Infra & Reality Developers  
+- **ML Engineer** @ Omdena (3 months)  
+- **Data Analyst** @ KultureHire  
+- **Data Intern** @ 360DigiTMG — Reduced bounce by 30%, boosted revenue > ₹20L  
+- **Virtual Internships** — MathWorks, Cloud Counselage, Devnest
+
+---
+
+## 🧠 Certifications
+
+- Microsoft Certified AI Engineer  
+- Google Data Analytics Specialization  
+- ML on Google Cloud  
+- Oracle Certified Generative AI Professional  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" />
+</div>
+
+### 🌐 Frontend
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" />
+</div>
+
+### 🧰 Backend & DevOps
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" />
+</div>
+
+### 📊 Data Science & ML
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" height="40" />
+</div>
 
 
-</td></tr></table>  
+## 📊 GitHub Stats
 
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="75" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="75" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="75" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="75" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="75" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nigamshivanshu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=nigamshivanshu&show_icons=true&theme=react&count_private=true&hide_border=true" width="100%"/>
 </td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigamshivanshu&layout=compact&hide_border=true&theme=react" width="100%"/>
+</td></tr></table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigamshivanshu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+![Profile Views](https://komarev.com/ghpvc/?username=nigamshivanshu&style=flat-square)
 
-<br/>  
+---
 
-![]()  
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=nigamshivanshu&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+⭐️ Let’s connect, collaborate, and innovate with data!  
