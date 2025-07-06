@@ -1,3 +1,5 @@
+## <div align="center">Hey 👋, I'm Shivanshu Nigam!</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=1E77B5&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivanshu+Nigam!;Data+Analyst+%7C+Business+Analytics+%26+ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
@@ -8,7 +10,7 @@
 
 ---
 
-### <div align="center">Data Analyst | AI Enthusiast | Microsoft Certified AI Engineer</div>  
+### <div align="center">Data Analyst | AI Enthusiast | Microsoft Certified AI Engineer</div>
 <div align="center">
 <a href="https://github.com/nigamshivanshu" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -75,59 +77,58 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (Responsive Icons)
 
 ### 💻 Languages
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" />
-</div>
+<p align="center">
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" style="max-width: 60px; width: 20%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 60px; width: 20%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 60px; width: 20%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" style="max-width: 60px; width: 20%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" style="max-width: 60px; width: 20%; height: auto;" /></picture>
+</p>
 
 ### 🌐 Frontend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" />
-</div>
+<p align="center">
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+</p>
 
 ### 🧰 Backend & DevOps
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" />
-</div>
+<p align="center">
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/flask.png" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+</p>
 
 ### 🗄️ Databases
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" />
-</div>
+<p align="center">
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="max-width: 60px; width: 40%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" style="max-width: 60px; width: 40%; height: auto;" /></picture>
+</p>
 
 ### 📊 Data Science & ML
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" height="40" />
-</div>
-
+<p align="center">
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/keras.png" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+  <picture><img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" style="max-width: 60px; width: 16.66%; height: auto;" /></picture>
+</p>
 
 ## 📊 GitHub Stats
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=nigamshivanshu&show_icons=true&theme=react&count_private=true&hide_border=true" width="100%"/>
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigamshivanshu&layout=compact&hide_border=true&theme=react" width="100%"/>
 </td></tr></table>
 
@@ -137,4 +138,4 @@
 
 ---
 
-⭐️ Let’s connect, collaborate, and innovate with data!  
+⭐️ Let’s connect, collaborate, and innovate with data!
