@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Shivanshu Nigam — Data Analytics, SQL, Python and Machine Learning" width="100%">
+<img src="assets/hero.png" alt="Shivanshu Nigam — Data Analytics, SQL, Python and Machine Learning" width="100%">
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Data+Analytics+%7C+SQL+%7C+Python;Business+Intelligence+%7C+Performance+Analytics;Applied+Machine+Learning+%7C+Exploring+LLM+Systems" alt="Data Analytics, Business Intelligence and Applied Machine Learning">
@@ -253,6 +253,6 @@ I welcome conversations about Data Analyst, BI Analyst, and analytics-focused op
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="assets/divider.png" width="100%" alt="">
   <sub>Built around practical analytics, measurable evidence, and continuous technical growth.</sub>
 </div>
