@@ -36,29 +36,39 @@ My professional work has included recharge behaviour, customer demographics, dat
 
 > **Career direction:** Data Analytics → Applied Machine Learning → MLOps and LLM-powered applications. The AI engineering topics below are learning and project interests, not claims of professional production experience.
 
-## Professional Experience
 
-### Vodafone Idea — MIS Executive (Analytics-focused)
-**Payroll: Quess Corp Pvt. Ltd.** · Lucknow, India · **April 2026 – Present**
+<!-- ================= PROFESSIONAL EXPERIENCE ================= -->
 
-- Perform end-to-end recharge tracker analysis to examine First Recharge (FR) and base recharge behaviour, including recharge-value distributions and patterns.
-- Analyse customer demographics and data-usage patterns for the Uttar Pradesh Telecom Circle.
-- Investigate site-wise and zone-wise revenue and performance to support business monitoring.
-- Extract and analyse operational data using **Apache Impala SQL** and **MS Access**.
-- Prepare reporting for Marketing, Finance, and senior stakeholders, translating operational data into actionable findings.
 
-**Tools:** Apache Impala SQL · MS Access · Excel · Business Reporting
+## 💼 Professional Experience
 
-### A.K. Infra & Realty Developers — Data Analyst
-**July 2024 – April 2026** · Restaurant SaaS Operations
+### MIS Executive – Analytics | Vodafone Idea Limited
+**Payroll:** Quess Corp Pvt. Ltd.  
+**Location:** Lucknow, India  
+**Duration:** April 2026 – Present
 
-- Managed business reporting and KPI tracking for **four multi-location restaurants**.
-- Consolidated operational, transactional, and commission datasets into centralised MIS reporting.
-- Built **Looker Studio dashboards** to monitor business performance and operational KPIs.
-- Performed data validation and reconciliation across **Talabat, Careem, Zomato, and Noon** datasets.
-- Supported performance monitoring and operational decision-making through consistent reporting.
+- Query and process **120M+ customer-related records** using Apache Impala SQL, applying business rules to extract and consolidate datasets for recurring operational reporting across **8+ zones and 50+ districts**.
+- Conduct analytical investigations across **revenue, ARPU, recharge behaviour, subscriber acquisition, churn, and site-level performance**, translating large datasets into actionable business insights.
+- Collaborate with cross-functional stakeholders and management to understand reporting requirements, coordinate analytical requests, and deliver reports aligned with operational and business objectives.
+- Maintain and refine SQL queries, business logic, reporting metrics, and validation rules to accommodate evolving stakeholder requirements while ensuring data accuracy and consistency.
+- Optimize recurring reporting workflows through **SQL optimization and Excel/MS Access automation**, reducing daily reporting time by approximately **40%** and cutting one report's preparation time from 60+ minutes to approximately 15 minutes.
 
-**Tools:** SQL · Excel · Looker Studio · Data Reconciliation · Multi-source Data Integration
+**Technology Stack:** Apache Impala SQL · MS Access · Advanced Excel · Data Analysis · Reporting Automation
+
+---
+
+### Data Analyst | A.K. Infra & Realty Developers
+**Location:** Lucknow, India  
+**Duration:** July 2024 – April 2026
+
+- Analyzed multi-source lead-generation data from **Meta Ads, IndiaMART, and Housing**, integrating insights with a **300K+ customer database** to evaluate lead quality, customer behaviour, campaign performance, and sales conversion trends.
+- Developed and maintained interactive **Power BI and Looker Studio dashboards** to monitor business KPIs, including cost per lead, lead-to-site-visit conversion, sales conversion, inventory absorption, revenue, and target achievement.
+- Performed customer segmentation and lead-quality investigations, identifying budget and location constraints among approximately **60% of non-interested leads** to uncover opportunities for improving lead matching.
+- Conducted quarterly and year-over-year performance analysis, identifying a **20% increase in overall profitability** and providing insights into business performance trends.
+- Automated data retrieval and recurring management reporting using **Google Sheets and Google Apps Script**, reducing manual reporting effort and improving operational efficiency.
+- Delivered structured training to dashboard users on navigation, KPI definitions, and interpretation of analytical outputs, supporting consistent reporting adoption across teams.
+
+**Technology Stack:** SQL · Power BI · Looker Studio · Advanced Excel · Google Sheets · Google Apps Script · Data Analytics
 
 ---
 
